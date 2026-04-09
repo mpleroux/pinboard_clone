@@ -7,17 +7,17 @@ All updates will be created [using prompts](docs/prompt-history.md) to help me b
 ## Features
 
 - Reverse-chronological list of bookmarks with title, URL, tags, and save date
+- Responsive layout, minimal aesthetic inspired by Pinboard
 - Tags are displayed in a sidebar (desktop) or tag strip (mobile)
     - Click any tag to filter
 - Input field in header to search across titles, URLs, and tags
 - Add/Edit modal with title, URL, and comma-separated tags
 - Delete confirmation modal before removing anything
-- localStorage persistence
-- Seeded with 3 sample bookmarks
-- Responsive layout, minimal aesthetic inspired by Pinboard
 - Export bookmarks (HTML, JSON)
 - Import bookmarks (HTML, JSON)
     - Two modes: Merge and replace
+- Bookmarks are persisted in localStorage
+- Seeded with 3 sample bookmarks
 
 ## Tech Stack
 
