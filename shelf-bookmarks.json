@@ -1,0 +1,46 @@
+{
+  "_format": "shelf-bookmarks-v1",
+  "exported": "2026-04-01T02:54:22.151Z",
+  "bookmarks": [
+    {
+      "id": "mnfftjclkjf4u",
+      "title": "Traversy Media",
+      "url": "https://traversymedia.com/",
+      "tags": [
+        "dev"
+      ],
+      "updatedAt": "2026-04-01T02:39:28.821Z"
+    },
+    {
+      "id": "mnffph8d1kgdl",
+      "title": "Pinboard — Social Bookmarking",
+      "url": "https://pinboard.in",
+      "tags": [
+        "tools",
+        "bookmarks"
+      ],
+      "updatedAt": "2026-03-30T02:36:19.453Z"
+    },
+    {
+      "id": "mnffph8d3wj6d",
+      "title": "Hacker News",
+      "url": "https://news.ycombinator.com",
+      "tags": [
+        "news",
+        "tech"
+      ],
+      "updatedAt": "2026-03-27T02:36:19.453Z"
+    },
+    {
+      "id": "mnffph8d9o5d9",
+      "title": "Tailwind CSS Documentation",
+      "url": "https://tailwindcss.com/docs",
+      "tags": [
+        "css",
+        "tools",
+        "reference"
+      ],
+      "updatedAt": "2026-03-24T02:36:19.453Z"
+    }
+  ]
+}
