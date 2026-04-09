@@ -1,0 +1,23 @@
+{
+  "bracketSameLine": true,
+  "plugins": [
+    "prettier-plugin-astro",
+    "prettier-plugin-tailwindcss"
+  ],
+  "overrides": [
+    {
+      "files": "*.astro",
+      "options": {
+        "parser": "astro"
+      }
+    },
+    {
+      "files": "*.md",
+      "options": {
+        "parser": "markdown"
+      }
+    }
+  ],
+  "tabWidth": 4,
+  "tailwindStylesheet": "./src/styles/global.css"
+}
