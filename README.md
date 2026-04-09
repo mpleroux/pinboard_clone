@@ -26,6 +26,15 @@ All updates will be created [using prompts](docs/prompt-history.md) to help me b
 - JavaScript
 - Local storage
 
+## Improvements
+
+- [ ] Store bookmarks in cloud database
+- [ ] Deploy to Netlify and link to live version
+
 ## Run locally
 
 For now, open the file `bookmarks.html` directly in the browser.
+
+## Screenshot
+
+<img src="./public/screenshot.png" width="400" alt="Screenshot of Pinboard clone">
