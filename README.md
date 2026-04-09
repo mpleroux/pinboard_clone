@@ -1,8 +1,8 @@
 # README
 
-An experiment to vibe-code a barebones, single user clone of the social bookmarking website Pinboard using Claude Code. All changes will be created using prompts to help me become more familiar with the process and the limitations of prompt engineering.
+An experiment to vibe-code a barebones, single user clone of the social bookmarking website Pinboard using Claude Code. Bookmarking utilities are undoubtedly easy for LLMs to create given how much prior art already exists out there.
 
-URL:
+All updates will be created using prompts to help me become more familiar with the process of vibe-coding and its limitations. This is not intended to replace a more thorough AI workflow that utilizes context, skills, subagents, etc.
 
 ## Features
 
@@ -27,3 +27,5 @@ URL:
 - Local storage
 
 ## Run locally
+
+For now, open the file `bookmarks.html` directly in the browser.
