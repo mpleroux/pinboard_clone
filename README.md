@@ -4,7 +4,7 @@ An experiment to vibe-code a barebones, single user clone of the social bookmark
 
 All updates were created [using prompts](docs/prompt-history.md) to help me become more familiar with the process of vibe-coding and its limitations. This is not intended to replace the more professional AI workflow which utilizes skills, subagents, etc. that I'm learning about in Traversy Media's [Coding with AI](https://www.traversymedia.com/coding-with-ai) course.
 
-I tried to convert the static site to a local project built with `npm` and run with `Vite`, but the page was broken and it didn't recognize Tailwind utility classes. Claude to fix it so for now that marks the end of my brief vibe-coding experiment. At some point I will pick this back up and work on fixing the problems myself with Claude's help, as opposed to letting it make all the changes.
+I tried to convert the static site to a local project built with `npm` and run with `Vite`, but the page was broken and it didn't recognize Tailwind utility classes. I couldn't get Claude to fix it so for now that marks the end of my brief vibe-coding experiment. At some point I will pick this back up and work on fixing the problems myself with Claude's help, as opposed to letting it make all the changes.
 
 ## Features
 
