@@ -2,7 +2,7 @@
 
 An experiment to vibe-code a barebones, single user clone of the social bookmarking website Pinboard using Claude Code. Bookmarking utilities are undoubtedly easy for LLMs to create given how much prior art already exists out there.
 
-All updates will be created [using prompts](docs/prompt-history.md) to help me become more familiar with the process of vibe-coding and its limitations. This is not intended to replace a more professional AI workflow that utilizes context, skills, subagents, etc. I'm currently more details about that in the Traversy Media course [Coding with AI](https://www.traversymedia.com/coding-with-ai).
+All updates will be created [using prompts](docs/prompt-history.md) to help me become more familiar with the process of vibe-coding and its limitations. This is not intended to replace the more professional AI workflow which utilizes skills, subagents, etc. that I'm learning about in Traversy Media's [Coding with AI](https://www.traversymedia.com/coding-with-ai) course.
 
 ## Features
 
