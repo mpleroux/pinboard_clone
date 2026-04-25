@@ -2,9 +2,9 @@
 
 An experiment to vibecode a barebones, single user clone of the social bookmarking website Pinboard using Claude Code. Bookmarking utilities are undoubtedly easy for LLMs to create given how much prior art already exists out there.
 
-All updates were created [using prompts](docs/prompt-history.md) to help me become more familiar with the process of vibe-coding and its limitations. Claude did an impressive job at first, creating a functional single page bookmarking app after the first detailed prompt. Using additional prompts to add features like import/export and light/dark mode also went smoothly.
+All updates were created [using prompts](docs/prompt-history.md) to help me become more familiar with the process of vibecoding and its limitations. Claude did an impressive job at first, creating a functional single page bookmarking app after the first detailed prompt. Using additional prompts to add features like import/export and light/dark mode also went smoothly.
 
-Claude stumbled when I asked it to convert the HTML page to a local project built with `npm` and run with `Vite`. The page appeared broken in the browser because it didn't recognize Tailwind classes. After several unsuccessful attempts to generate the necessary project configuration with Claude I decided to end this brief vibe-coding experiment. I plan to recreate the project using React and Next.js, using this repo as inspiration.
+Claude stumbled when I asked it to convert the HTML page to a local project built with `npm` and run with `Vite`. The page appeared broken in the browser because it didn't recognize Tailwind classes. After several unsuccessful attempts to generate the necessary project configuration with Claude I decided to end this brief experiment. I plan to recreate the project using React and Next.js and this repo can serve as inspiration.
 
 I am in the process of learning a more professional AI workflow which utilizes skills, subagents, etc. in Traversy Media's [Coding with AI](https://www.traversymedia.com/coding-with-ai) course.
 
