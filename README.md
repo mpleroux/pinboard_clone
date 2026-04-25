@@ -32,7 +32,7 @@ I am in the process of learning a more professional AI workflow which utilizes s
 
 ## Run locally
 
-For now, open the file `bookmarks.html` directly in the browser.
+Open the file `bookmarks.html` directly in the browser, no server required.
 
 ## Screenshot
 
