@@ -30,12 +30,6 @@ I am in the process of learning a more professional AI workflow which utilizes s
 - JavaScript
 - Local storage
 
-## Improvements
-
-- [ ] Convert from static site to local project built with `npm` and run with `Vite`
-- [ ] Create Netlify project with automatic deployment of GitHub repo
-- [ ] Store bookmarks in cloud database
-
 ## Run locally
 
 For now, open the file `bookmarks.html` directly in the browser.
