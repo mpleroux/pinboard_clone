@@ -1,6 +1,6 @@
 # README
 
-An experiment to vibe-code a barebones, single user clone of the social bookmarking website Pinboard using Claude Code. Bookmarking utilities are undoubtedly easy for LLMs to create given how much prior art already exists out there.
+An experiment to vibecode a barebones, single user clone of the social bookmarking website Pinboard using Claude Code. Bookmarking utilities are undoubtedly easy for LLMs to create given how much prior art already exists out there.
 
 All updates were created [using prompts](docs/prompt-history.md) to help me become more familiar with the process of vibe-coding and its limitations. Claude did an impressive job at first, creating a functional single page bookmarking app after the first detailed prompt. Using additional prompts to add features like import/export and light/dark mode also went smoothly.
 
@@ -42,4 +42,4 @@ For now, open the file `bookmarks.html` directly in the browser.
 
 ## Screenshot
 
-<img src="./public/screenshot.png" width="400" alt="Screenshot of Pinboard clone">
+<img src="./public/screenshot.png" width="400" alt="Screenshot of Pinboard Vibecode">
